@@ -1,0 +1,142 @@
+body{
+  margin: 0;
+  text-align:center;
+  font-family:'Acme',sans-serif;
+  font-size:120%;
+}
+h3,h2{
+font-weight:normal;
+font-size:1.4rem;
+color:#c45c39;}
+.pro{
+margin-top:40px;
+width:150px;
+height:150px;}
+h1{
+Line-height:2;
+margin:20px auto 0 auto;
+  color:#d43759;
+}
+.top{
+ background-color:#4287f5;
+ position:relative;
+ padding-top:100px;
+}
+
+p{
+font-family:'Secular',sans-serif;
+margin:0 auto 0 auto;
+font-size:20px;
+color:
+}
+.middle{
+background-color:red;
+}
+.bottom{
+background-color:yellow;
+width:500px;
+height:200px;
+}
+
+.cloud{
+position :absolute;
+right:300px;
+left:20px;
+
+}
+.cloud2{
+position:absolute;
+right:50px;
+}
+.skill-row{
+
+ width:50%;
+margin:auto ;
+text-align:left;
+line-height:2;
+
+}
+.com{
+width:25%;
+float: left;
+margin-top:20px;
+margin-right:10px;
+width:150px;
+height:150px;
+}
+.g{
+width:25%;
+float:right;
+margin-right:10px;
+margin-top:20px;
+margin-bottom:50px;
+}
+p{
+font-size:15px;
+
+
+}
+hr{
+border:  dotted #30e3cb 6px ;
+width:6%;
+border-bottom:none;
+margin-top:100px;
+margin-bottom:100px;
+}
+
+.bottom-container{
+background-color:#2bc4ad;
+margin-top:30px;
+padding:50px;
+}
+/*.about-me{
+clear:left;
+}*/
+
+.contact_message{
+margin-bottom:40px;
+}
+
+.btn {
+
+
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+margin-top:20px;
+margin-bottom:50px;
+padding-top:50px top;
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.footer-link{
+ font-family:'Acme',sans-serif;
+ margin:10px 20px;
+margin-top=20px;
+text-decoration:none;}
+.footer-link:hover{
+color:#EAF6F6}
+.footer-copy{
+margin-top:20px;
+
+
+color:#EAF6F6}
